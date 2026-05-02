@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio/static/css/main.5a88b86f.css",
-    "main.js": "/Personal-Portfolio/static/js/main.b19eba33.js",
+    "main.js": "/Personal-Portfolio/static/js/main.10219d9a.js",
     "static/css/769.b3cbb36b.chunk.css": "/Personal-Portfolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.4540b186.chunk.js": "/Personal-Portfolio/static/js/769.4540b186.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/Personal-Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -14,12 +14,12 @@
     "static/media/skill.svg": "/Personal-Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/Personal-Portfolio/index.html",
     "main.5a88b86f.css.map": "/Personal-Portfolio/static/css/main.5a88b86f.css.map",
-    "main.b19eba33.js.map": "/Personal-Portfolio/static/js/main.b19eba33.js.map",
+    "main.10219d9a.js.map": "/Personal-Portfolio/static/js/main.10219d9a.js.map",
     "769.b3cbb36b.chunk.css.map": "/Personal-Portfolio/static/css/769.b3cbb36b.chunk.css.map",
     "769.4540b186.chunk.js.map": "/Personal-Portfolio/static/js/769.4540b186.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a88b86f.css",
-    "static/js/main.b19eba33.js"
+    "static/js/main.10219d9a.js"
   ]
 }
