@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.5befaafb.css",
+    "main.js": "/personal-portfolio/static/js/main.9a2cdc8b.js",
+    "static/css/769.b3cbb36b.chunk.css": "/personal-portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.4540b186.chunk.js": "/personal-portfolio/static/js/769.4540b186.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/personal-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Resume-Dhanya.pdf": "/personal-portfolio/static/media/Resume-Dhanya.2c56b9618b142cd3728d.pdf",
+    "static/media/interviewAceLogo.webp": "/personal-portfolio/static/media/interviewAceLogo.db6547aacd0e9ff87cf7.webp",
+    "static/media/Agustina.woff": "/personal-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/legalEaseLogo.webp": "/personal-portfolio/static/media/legalEaseLogo.63e3806e8bd41dddb355.webp",
+    "static/media/barclaysLogo.png": "/personal-portfolio/static/media/barclaysLogo.4d7dc5c78e9498e5ef7f.png",
+    "static/media/contactMailDark.svg": "/personal-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/skill.svg": "/personal-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.5befaafb.css.map": "/personal-portfolio/static/css/main.5befaafb.css.map",
+    "main.9a2cdc8b.js.map": "/personal-portfolio/static/js/main.9a2cdc8b.js.map",
+    "769.b3cbb36b.chunk.css.map": "/personal-portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.4540b186.chunk.js.map": "/personal-portfolio/static/js/769.4540b186.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5befaafb.css",
+    "static/js/main.9a2cdc8b.js"
+  ]
+}
